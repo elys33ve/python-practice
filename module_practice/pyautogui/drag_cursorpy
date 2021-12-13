@@ -1,5 +1,7 @@
 #if this tab is fullscreen, this program will restore it down
 
+##### this is an example of using pyautogui to drag cursor from one point to another
+
 import pyautogui as p
 
 x = 1220
