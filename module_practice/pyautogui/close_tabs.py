@@ -2,6 +2,8 @@
 #(at least on this laptop, while < 6 tabs are open) 
 #this was just a test while learning the pyautogui module
 
+###### example of using pyautogui to click different points on screen
+
 import pyautogui as p
 from time import sleep
 
